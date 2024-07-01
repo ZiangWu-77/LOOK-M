@@ -23,7 +23,7 @@ Furthermore, to mitigate the degradation of image contextual information, we pro
 ### Environment Setup
 The Environments Setup is consistent with Milebench
 ```
-conda create -n LOOK-M
+conda create -n LOOK-M python=3.11
 pip install -r requirements.txt
 ```
 
